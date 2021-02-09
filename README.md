@@ -40,4 +40,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-felipe-dev/)
 [![MailZoho](	https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:the.contato@kaiofelipe.dev)
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5516991749905&text=Ol%C3%A1%2C%20entrei%20em%20contato%20com%20voc%C3%AA%20atrav%C3%A9s%20do%20link%20no%20seu%20GitHub.)
-[![Website](	https://img.shields.io/badge/www.kaiofelipe.dev-D14836?style=for-the-badge&logo=Headspace&logoColor=white)](www.kaiofelipe.dev)
+[![Website](	https://img.shields.io/badge/www.kaiofelipe.dev-D14836?style=for-the-badge&logo=Headspace&logoColor=white)](https://www.kaiofelipe.dev/)
