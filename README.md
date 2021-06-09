@@ -14,7 +14,6 @@
 
  
 - <b>Back-end:</b>
-![PHP7](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&color=FFCE5A)
  
 - <b>Database:</b>
@@ -23,7 +22,6 @@
  
 - <b>Mobile:</b>
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 - <b>Server:</b>
 ![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square)
 ![Google Cloud Platform](https://img.shields.io/badge/-Amazon_AWS-4285F4?style=flat-square&logo=amazon-aws&logoColor=white)
