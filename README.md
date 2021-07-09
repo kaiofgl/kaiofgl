@@ -23,7 +23,6 @@
 - <b>Mobile:</b>
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=61DAFB)
 - <b>Server:</b>
-![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square)
 ![Google Cloud Platform](https://img.shields.io/badge/-Amazon_AWS-4285F4?style=flat-square&logo=amazon-aws&logoColor=white)
 
 #### 📈 GitHub Stats
