@@ -9,19 +9,17 @@
 
 - <b>Front-end:</b>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
-
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
 ![Vuetify](https://img.shields.io/badge/-Vuetify.js%20-02569B?style=flat-square&logo=vuetify&logoColor=61DAFB)
+![BLADE](https://img.shields.io/badge/blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=black)
  
 - <b>Back-end:</b>
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 - <b>Database:</b>
-![MySql](https://img.shields.io/badge/-MySql-00000F?style=flat-square&logo=mysql&logoColor=ffffff)
+![MySql](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 	
  - <b>Frameworks:</b>
@@ -29,7 +27,7 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
  
 - <b>Mobile:</b>
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - <b>Server:</b>
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 #### 📈 GitHub Stats
