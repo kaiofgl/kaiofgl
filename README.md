@@ -14,7 +14,7 @@
 ![Vuetify](https://img.shields.io/badge/-Vuetify.js%20-02569B?style=flat-square&logo=vuetify&logoColor=61DAFB)
  
 - <b>Back-end:</b>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&color=FFCE5A)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 - <b>Database:</b>
