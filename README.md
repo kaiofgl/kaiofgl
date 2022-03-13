@@ -30,6 +30,7 @@
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - <b>Server:</b>
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ORACLE](https://img.shields.io/badge/ORACLE-C84734?style=for-the-badge&logo=oracle&logoColor=white)
 #### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiofgl&show_icons=true&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&icon_color=5CFFFC)
