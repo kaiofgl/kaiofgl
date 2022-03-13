@@ -11,11 +11,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
+![Vuetify](https://img.shields.io/badge/-Vuetify.js%20-02569B?style=flat-square&logo=vuetify&logoColor=61DAFB)
  
 - <b>Back-end:</b>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&color=FFCE5A)
- 
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 - <b>Database:</b>
 ![MySql](https://img.shields.io/badge/-MySql-00000F?style=flat-square&logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -27,9 +28,7 @@
 - <b>Mobile:</b>
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=61DAFB)
 - <b>Server:</b>
-![Google Cloud Platform](https://img.shields.io/badge/-Amazon_AWS-4285F4?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-Amazon_AWS-4285F4?style=flat-square&logo=amazon-aws&logoColor=white)
 #### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiofgl&show_icons=true&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&icon_color=5CFFFC)
