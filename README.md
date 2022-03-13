@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Vuetify](https://img.shields.io/badge/-Vuetify.js%20-02569B?style=flat-square&logo=vuetify&logoColor=61DAFB)
+![Vuetify](https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![BLADE](https://img.shields.io/badge/blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=black)
  
 - <b>Back-end:</b>
