@@ -1,4 +1,4 @@
-## Kaio Felipe, 21y - Full Stack Developer
+## Kaio Felipe, 22y - Full Stack Developer
 
 #### 📖 About
 
@@ -18,13 +18,18 @@
  
 - <b>Database:</b>
 ![MySql](https://img.shields.io/badge/-MySql-00000F?style=flat-square&logo=mysql&logoColor=ffffff)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+	
+ - <b>Frameworks:</b>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
  
 - <b>Mobile:</b>
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=61DAFB)
 - <b>Server:</b>
 ![Google Cloud Platform](https://img.shields.io/badge/-Amazon_AWS-4285F4?style=flat-square&logo=amazon-aws&logoColor=white)
-
+![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/-Amazon_AWS-4285F4?style=flat-square&logo=amazon-aws&logoColor=white)
 #### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiofgl&show_icons=true&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&icon_color=5CFFFC)
