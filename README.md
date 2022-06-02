@@ -1,11 +1,11 @@
 ## Kaio Felipe, 22 anos - Full Stack Developer
 
-#### 📖 About
+#### 📖 Sobre mim
 
 - 🏠 Moro na cidade de <b>Franca, SP</b>
 - 🌱  Atualmente estou estudando <b>Laravel</b> & <b>Vue.js</b>.
 
-#### 👨‍💻 Stack
+#### 👨‍💻 Habilidades
 
 - <b>Front-end:</b>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
