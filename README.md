@@ -1,9 +1,9 @@
-## Kaio Felipe, 22y - Full Stack Developer
+## Kaio Felipe, 22 anos - Full Stack Developer
 
 #### 📖 About
 
-- 🏠 Living in <b>Franca, SP</b> - Brazil
-- 🌱  I’m currently learning <b>Flutter</b> & <b>React Native</b>
+- 🏠 Moro na cidade de <b>Franca, SP</b>
+- 🌱  Atualmente estou estudando <b>Laravel</b> & <b>Vue.js</b>.
 
 #### 👨‍💻 Stack
 
@@ -37,7 +37,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofgl&layout=compact&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC)
 
 
-#### Find me
+#### Me encontre
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/376066945381957643)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-felipe-dev/)
